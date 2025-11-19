@@ -53,3 +53,7 @@ footer a {
 footer a:hover {
     text-decoration: underline; /* Add underline back on hover */
 }
+/* --- Helper Classes --- */
+.hidden {
+    display: none;
+}
